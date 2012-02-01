@@ -17,4 +17,6 @@ where INTC is the Stock symbol of the company Intel Corporation.
 Remember, that the stock symbols are the Nasdaq Stock Symbols - http://www.nasdaq.com/asp/comlookup.asp?page=empty
 
 
-Have fun!
+Have fun! [^1]
+
+[^1]: footnote?
